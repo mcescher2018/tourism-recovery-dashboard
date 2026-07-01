@@ -1,0 +1,19 @@
+# Power BI temp
+*.tmp
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Duck DB
+*.duckdb
