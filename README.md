@@ -14,7 +14,7 @@ The main indicators used in this project are:
 
 All regions have a positive recovery index, with Puglia leading and the national average at +22%.
 
-![Dashboard Preview](./powerbi/screenshots/headline.png)
+![Headline Preview](./powerbi/screenshots/headline.png)
 
 ## Tools
 
