@@ -17,7 +17,7 @@ This ensures the national Recovery Index remains constant regardless of regional
 
 ## Region Bar Chart
 
-In the original dataset, all regional Recovery Index values were above 1. As a result, a uniform conditional coloring would not provide meaningful differentiation.
+In the dataset, all regional Recovery Index values were above 1. As a result, a uniform conditional coloring would not provide meaningful differentiation.
 
 To improve interpretability, a custom color scale was applied:
 
@@ -28,7 +28,7 @@ To improve interpretability, a custom color scale was applied:
 
 ## Line Chart
 
-Since monthly granularity was not available in the dataset, the original requirement (“Monthly nights, 2019 vs 2022 vs 2025”) was replaced with a simplified yearly line chart using Year as the x-axis and Recovery Index as the measure.
+Since monthly granularity was not available in the dataset, a simplified yearly line chart was selected, using Year as the x-axis and Recovery Index as the measure.
 
 Additionally, forecasting was added to extend the trend beyond 2025.
 

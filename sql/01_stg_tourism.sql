@@ -4,7 +4,7 @@ SELECT
   unit,
   c_resid                            AS residence,
   CAST(period AS INT)                AS year,
-  nights
+  nights                             AS arrivals
 FROM raw_eurostat
 WHERE 1=1
   AND geo LIKE 'IT%'            -- Italy only
